@@ -1,5 +1,5 @@
 # Yang_et-al_ChIP-seq_peak-res
-Peak callings of ChIP-seq data in the 'Yang et al. Nascent-RNA facilitated chromatin silencing of ABA biosynthesis genes permits seed germination in Arabidopsis'.
+Peak callings of ChIP-seq data in the 'Yang et al., Nascent-RNA facilitated chromatin silencing of ABA biosynthesis genes permits seed germination in Arabidopsis'.
 
 Peak calling: PePr (version: 1.1.24) (-w 100 --threshold 0.01) and other parameters were default.
 
