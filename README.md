@@ -5,5 +5,5 @@ Peak calling: PePr (version: 1.1.24) (-w 100 --threshold 0.01) and other paramet
 
 The identified peaks were filtered according to the following criteria: (i) peak length ≥ 400 bp; (ii) fold change value (over input or between samples) ≥ 1.5; and (iii) p value no more than 1e-5.
 
-Related paper:
+Published version:
 Deyue Yang#, Fengli Zhao#, Danling Zhu, Xi Chen, Xiangxiong Kong, Yufeng Wu, Min Chen, Li-jia Qu and Zhe Wu*. Progressive chromatin silencing of ABA biosynthesis gene permits seed germination in Arabidopsis. The Plant Cell, 2022, 34: 2871–2891.
